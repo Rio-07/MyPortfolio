@@ -11,4 +11,4 @@ This is a modern, responsive, and developer-focused portfolio built to showcase 
 - Skills and tech stacks highlighted
 - Animated and interactive design
 - Custom domain setup (`gagandeepsingh.me`)
-- Built with HTML, CSS, JavaScript (or React if applicable)
+- Built with HTML, CSS, JavaScript 
